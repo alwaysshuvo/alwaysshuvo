@@ -1,10 +1,11 @@
+
+<h1 align="center">Hi 👋, I'm Ali Hossen Shuvo</h1>
+<h3 align="center">Full Stack Developer • MERN Stack • Bangladesh</h3>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/e57b8fbccdff9caff3e7815af8ebfb6ff4d13d54dac1ab98c71062fa92214bce/68747470733a2f2f692e6962622e636f2f4b4c42316677482f636f64696e672e676966" alt="Banner" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Ali Hossen Shuvo</h1>
-<h3 align="center">Full Stack Developer • MERN Stack • Bangladesh</h3>
 
 ---
 
