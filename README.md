@@ -105,7 +105,10 @@ Here are some of my best & most active projects 👇
 ---
 
 ### 🎯 Profile Visitors  
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/alwaysshuvo&title=Profile%20Views&edge_flat=false"/>
-</p>
+---
 
+### 🎯 Profile Visitors  
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/alwaysshuvo&title=Profile%20Views&edge_flat=false"/>
+  <br><br>
+</div>
